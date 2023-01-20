@@ -1,4 +1,3 @@
-import { useState } from "react";
 import styled from "styled-components";
 import star from "../images/icon-star.svg";
 import Buttons from "./Buttons";
