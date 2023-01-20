@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/interactive-rating/static/css/main.55e935b8.css",
+    "main.js": "/interactive-rating/static/js/main.3df7d255.js",
+    "static/media/Overpass-Regular.ttf": "/interactive-rating/static/media/Overpass-Regular.6bc712f590eef4f9937f.ttf",
+    "static/media/illustration-thank-you.svg": "/interactive-rating/static/media/illustration-thank-you.d74a66b551b99ae110b5362ed63106bf.svg",
+    "index.html": "/interactive-rating/index.html",
+    "static/media/icon-star.svg": "/interactive-rating/static/media/icon-star.12766a8d207af861a70f92500634c8be.svg",
+    "main.55e935b8.css.map": "/interactive-rating/static/css/main.55e935b8.css.map",
+    "main.3df7d255.js.map": "/interactive-rating/static/js/main.3df7d255.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55e935b8.css",
+    "static/js/main.3df7d255.js"
+  ]
+}
